@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>MY FIRST STYLED PAGE</title>
+<style>
+{padding-left:11em;
+font-family:Georgia,"Times New Roman",Times, serif;
+color:purple;
+background-color:#d8da3d}
+ul.navbar{
+position:absolute;
+top:2em;
+left:1em;
+width:9em;}
+</style>
+<body>
+  <p>
+        <a href="https://www.churchofjesuschrist.org/study/new-era/2014/09/50-fun-things-to-learn?lang=eng"</a>
+      </p>
+</body>
+</head>
+</html>
